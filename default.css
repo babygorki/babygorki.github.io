@@ -3,16 +3,17 @@
 body {
 	text-align: justify;
 	font-family: 'DotGothic16', sans-serif;
-    background-image: url("ojitos.png");
+    font-size: 17px;
+    background-image: url("portrait3.png");
     background-repeat: repeat-y;
-    background-color: #c60d2a;
+    background-color: #fffba6;
     background-attachment: fixed;
     background-size: 25% auto;
 }
 
 h1, h2, h3 {
 	text-transform: lowercase;
-	color: #ffff00;
+	color: #367c39;
 }
 
 ul {
@@ -22,7 +23,7 @@ ul {
 }
 
 a {
-	color: #ffff00;
+	color: #367c39;
 }
 
 a:hover {
@@ -54,9 +55,9 @@ a:hover {
 
 #menu {
 	width: 700px;
-	height: 2.0em;
+	height: 1.9em;
 	margin: 0px auto;
-	border: 1px solid #ffff00;
+	border: 1px solid #367c39;
 }
 
 #menu ul {
@@ -73,12 +74,12 @@ a:hover {
 	display: block;
 	float: left;
 	padding: 4px 10px;
-	border-right: 5px solid #ffff00;
+	border-right: 5px solid #367c39;
 	text-decoration: none;
 }
 
 #menu a:hover {
-	background: #ffff00;
+	background: #367c39;
 	color: black;
 }
 
@@ -110,7 +111,7 @@ a:hover {
 	width: 680px;
 	margin: 0px auto;
 	padding: 5px 10px;
-	border: 1px solid #ffff00;
+	border: 1px solid #367c39;
 }
 
 #footer p {
