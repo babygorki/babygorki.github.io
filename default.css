@@ -72,8 +72,8 @@ a:hover {
 #menu a {
 	display: block;
 	float: left;
-	padding: 3px 10px;
-	border-right: 1px solid #ffff00;
+	padding: 4px 10px;
+	border-right: 5px solid #ffff00;
 	text-decoration: none;
 }
 
