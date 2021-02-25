@@ -7,7 +7,7 @@ body {
     background-repeat: repeat-y;
     background-color: #c60d2a;
     background-attachment: fixed;
-    background-size: 25%;
+    background-size: 25% auto;
 }
 
 h1, h2, h3 {
