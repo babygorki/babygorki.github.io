@@ -15,6 +15,7 @@ body {
 	width: 800px;
 	background-image:url(images/background.gif);
 
+
 }
 /******************** header ********************/
 #header {
@@ -22,6 +23,7 @@ body {
 	height:341px;
 	margin-left:25px;
 	background-image:url(images/header.jpg);
+    background-size: contain;
 	display:block;
 }
 #nav {
