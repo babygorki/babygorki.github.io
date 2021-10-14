@@ -4,16 +4,16 @@ body {
 	text-align: justify;
 	font-family: 'DotGothic16', sans-serif;
     font-size: 17px;
-    background-image: url("portrait3.png");
-    background-repeat: repeat-y;
-    background-color: #fffba6;
+    background-image: url("b6.png");
+    background-repeat: no-repeat;
+    background-color: #160c0e;
     background-attachment: fixed;
     background-size: 25% auto;
 }
 
 h1, h2, h3 {
 	text-transform: lowercase;
-	color: #367c39;
+	color: #ff05c4;
 }
 
 ul {
@@ -23,7 +23,7 @@ ul {
 }
 
 a {
-	color: #367c39;
+	color: #ff05c4;
 }
 
 a:hover {
@@ -57,7 +57,7 @@ a:hover {
 	width: 700px;
 	height: 1.9em;
 	margin: 0px auto;
-	border: 1px solid #367c39;
+	border: 1px solid #ff05c4;
 }
 
 #menu ul {
@@ -111,7 +111,7 @@ a:hover {
 	width: 680px;
 	margin: 0px auto;
 	padding: 5px 10px;
-	border: 1px solid #367c39;
+	border: 1px solid #ff05c4;
 }
 
 #footer p {
