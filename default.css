@@ -74,12 +74,12 @@ a:hover {
 	display: block;
 	float: left;
 	padding: 4px 10px;
-	border-right: 5px solid #367c39;
+	border-right: 5px solid #ff05c4;
 	text-decoration: none;
 }
 
 #menu a:hover {
-	background: #367c39;
+	background: #ff05c4;
 	color: black;
 }
 
