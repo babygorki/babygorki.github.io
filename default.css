@@ -28,7 +28,7 @@ a {
 
 a:hover {
 	text-decoration: none;
-	color: #990000;
+	color: white;
 }
 
 /** HEADER */
@@ -118,4 +118,5 @@ a:hover {
 	margin: 0px;
 	padding: 0px;
 	font-size: x-small;
+    color: white;
 }
