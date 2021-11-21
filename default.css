@@ -124,6 +124,6 @@ a:hover {
 
 marquee {
        width: 100%;
-       padding: 10px 0;
-       background-color: rgba(76, 94, 242, 0.5);
+       padding: 30px 30px;
+       background-color: rgba(255, 234, 0, 0.11);
      }
