@@ -1,7 +1,7 @@
 /** BASIC */
 
 body {
-	text-align: justify;
+	text-align: center;
 	font-family: 'DotGothic16', sans-serif;
     font-size: 17px;
     background-image: url("IMG_3784.jpeg");
@@ -85,9 +85,10 @@ a:hover {
 /** CONTENT */
 
 #content {
-	width: 550px;
+	width: 650px;
 	margin: 0px auto;
-
+    padding: 25px 25px;
+    background-color: rgba(76, 175, 80, 0.3);
 }
 
 #content h2 {
@@ -120,3 +121,9 @@ a:hover {
 	font-size: x-small;
     color: white;
 }
+
+marquee {
+       width: 100%;
+       padding: 10px 0;
+       background-color: rgba(76, 94, 242, 0.5);
+     }
