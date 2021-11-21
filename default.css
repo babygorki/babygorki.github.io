@@ -3,7 +3,7 @@
 body {
 	text-align: center;
 	font-family: 'DotGothic16', sans-serif;
-    font-size: 17px;
+    font-size: 20px;
     background-image: url("IMG_3784.jpeg");
     background-size: 100% auto;
 }
@@ -35,7 +35,7 @@ a:hover {
 #header {
 	width: 700px;
 	height: 60px;
-	margin: 0px auto;
+	margin: 20px auto;
 }
 
 #header h1 {
